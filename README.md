@@ -12,6 +12,6 @@ The used dataset is available [here](https://github.com/Xiangyu-Gao/Raw_ADC_rada
 
 Alternatively, [RADIal](https://github.com/valeoai/RADIal) dataset can be used aswell.
 
-## Code
+## Additional information
 For more information, contact info@marduk.ee
 
